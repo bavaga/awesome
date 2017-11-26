@@ -8,3 +8,4 @@ A list of awesome awesomeness :-)
 ## Restful API Guidelines
 * [Zalando RESTful API and Event Scheme Guidelines](https://github.com/zalando/restful-api-guidelines)
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
+* [adidas group API design guidelines](https://github.com/adidas-group/api-guidelines)
