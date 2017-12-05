@@ -24,3 +24,7 @@ A list of awesome awesomeness :-)
 * [A curated list of Microservice Architecture related principles and technologies.](https://github.com/mfornos/awesome-microservices)
 * [Awesome list of Redux examples and middlewares](https://github.com/xgrommx/awesome-redux)
 * [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)
+
+## Online Courses
+* [EDX: Introduction to Kubernetes](https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x)
+* [EDX: Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x)
