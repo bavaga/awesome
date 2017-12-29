@@ -32,3 +32,4 @@ A list of awesome awesomeness :-)
 
 ## LDAP
 * [Linux LDAP HOWTO](http://gd.tuwien.ac.at/linux/DE-HOWTO/HOWTO/DE-LDAP-HOWTO.html)
+* [Getting Started with LDAP](https://www.ldap.com/getting-started-with-ldap)
